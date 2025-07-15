@@ -427,7 +427,7 @@ function NavBar() {
             <Button className={classes.searchBtn}>
               <Search className={classes.searchIcon} />
             </Button>
-            <a href="http://127.0.0.1:5500/ChatBot/index.html">
+            <a href="http://127.0.0.1:5500/index.html">
             <img className={classes.logo1} src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Google_Chat_icon_%282020%29.svg/736px-Google_Chat_icon_%282020%29.svg.png" alt="" />
             </a>
           </div>
