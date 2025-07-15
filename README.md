@@ -16,7 +16,7 @@ Sustainable future
 
 ## Problem Statement
 
-In this environmentally focused theme, the challenge is to create a platform where Walmart prioritizes sustainable and eco-friendly products, and optimize the supply chain to reduce carbon footprint and promote zero waste or biodegradable packaging.\
+In this environmentally focused theme, the challenge is to create a platform where Walmart prioritizes sustainable and eco-friendly products, and optimize the supply chain to reduce carbon footprint and promote zero waste or biodegradable packaging.
 
 
 ## What it does?
