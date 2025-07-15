@@ -213,8 +213,8 @@ const useStyles = makeStyles({
     alignItems: "center",
   },
   logo: {
-    height: "2.5rem", // Slightly larger
-    width: "auto", // Maintain aspect ratio
+    height: "110px", // Slightly larger
+    width: "120px", // Maintain aspect ratio
     marginRight: "2rem", // Less margin
     filter: "brightness(0) invert(1)", // Make logo white
   },
