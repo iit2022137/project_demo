@@ -39,11 +39,6 @@ In this environmentally focused theme, the challenge is to create a platform whe
 7. Python
 8. Firebase
 
-## How to use it?
-1. Use `npm install` to install all the dependencies.
-2. Use `npm start` to start the server.
-3. Do they steps seperately for both the folders i.e. `frontend` and `server`.
-
 ## Screenshots
 
 ![Alt text](image-14.png)
